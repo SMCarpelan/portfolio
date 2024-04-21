@@ -1,9 +1,9 @@
 # Business-oriented Data Professional
 
 ### Education
--Technology, MSc (On-Going)
--Economics, MSc
--Economics, BSc
+-Technology, MSc (On-Going)  
+-Economics, MSc  
+-Economics, BSc  
 
 ### Work Experience
 **Data Scientist @ Finnish Tax Administration**
