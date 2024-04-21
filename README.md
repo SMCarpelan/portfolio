@@ -33,4 +33,5 @@ The core studies of the degree program included everything from the foundations 
 ### Certifications
 
 **Data Analyst Associate, DataCamp**                              
-**Azure Fundamentals, Microsoft**
+**Azure Fundamentals, Microsoft**                              
+**Google Analytics, Google**
