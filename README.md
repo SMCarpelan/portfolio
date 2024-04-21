@@ -13,7 +13,7 @@
 – B            
 – C            
 
-**Data Engineering Analyst @ Accenture ()**          
+**Data Engineering Analyst @ Accenture (_February 2022 – June 2023_)**          
 – A            
 – B            
 – C            
