@@ -1,6 +1,6 @@
 # Business-oriented Data Professional
 
-#### Technical Skills: Python, R, SQL, Microsoft Azure, MATLAB
+#### Technical Skills: Python, R, SQL, Microsoft Azure, STATA, PowerBI, MATLAB
 
 ### 1 - Work Experience
 **Data Scientist @ Finnish Tax Administration (_June 2023 – Present_)**                       
