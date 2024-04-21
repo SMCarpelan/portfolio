@@ -24,14 +24,15 @@ The core studies of the degree program included everything from the foundations 
 
 ### 3 - Projects
 
-**Project A**                    
+**Project A // KNN-model with Python (pending)**                    
 
-**Project B**                    
+**Project B // ARMA/ARIMA with R (pending)**                    
 
-**Project C**                         
+**Project C // Dashboard with PowerBI (pending)**                         
 
 ### 4 - Certifications
 
 **Data Analyst Associate, DataCamp**                              
-**Azure Fundamentals, Microsoft**                              
-**Google Analytics, Google**
+**Azure Fundamentals, Microsoft**                       
+**Google Analytics, Google**            
+**Data Engineer, AW Academy**            
