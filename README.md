@@ -6,7 +6,6 @@
 **Data Scientist @ Finnish Tax Administration (_June 2023 – Present_)**                       
 My day-to-day work consists of deriving insights from vast amounts of data by utilizing programming skills, conducting statistical analysis, and leveraging analytics tools provided by Microsoft Azure. My primary focus is on measuring the impact of specific actions by managing big data against a pre-planned experimental design. This approach involves applying my expertise in programming (SQL, R and Python) and statistics to ensure accurate and effective impact assessment. Additionally, my role involves the detailed reporting of research findings to stakeholders, ensuring that the insights and implications are clearly communicated for informed decision-making.
           
-
 **Data Engineering Analyst @ Accenture (_February 2022 – June 2023_)**       
 I was one of ten people selected from over 600 applicants across four Nordic countries to participate in a three-month-long Data Engineer program organized by AW Academy and Accenture. The course covered SQL, data integration, ETL, Python, Power BI, machine learning, Azure, AWS, and GCP. Graduating resulted in a permanent employment contract as a Data Engineer at Academic Work and a position as a Data Engineering Analyst at Accenture. After one year, I decided to seek a role that would allow me to better utilize my quantitative background in economics, focusing primarily on data analysis.
 
@@ -23,12 +22,15 @@ The completion of my degree, coupled with the specialized knowledge gained throu
 **Bachelor of Science in Economics, Turku School of Economics (_2017_)**                    
 The core studies of the degree program included everything from the foundations of marketing to the nuances of modern financial administration. I majored in business law and taxation, and in my bachelor’s thesis I researched the way an open public procurement procedure is conducted in a situation where the national public procurement law is overshadowed by the union level directive.                    
 
-          
-
 ### Projects
 
-**Project A**
+**Project A**                    
 
-**Project B**
+**Project B**                    
 
-**Project C**
+**Project C**                         
+
+### Certifications
+
+**Data Analyst Associate || DataCamp**
+**Azure Fundamentals || Microsoft**
