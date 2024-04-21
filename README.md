@@ -7,7 +7,13 @@
 
 ### Work Experience
 **Data Scientist @ Finnish Tax Administration**
+– A
+– B
+– C
 
 **Data Engineering Analyst @ Accenture**
+– A
+– B
+– C
 
 ### Projects
