@@ -18,7 +18,7 @@ I am currently studying to become an academic engineer. My major is Industrial E
 I switched my major to pure economics and also included its undergraduate studies in the degree, as well as a healthy amount of courses in math and statistics. For my thesis, I conducted an extensive quantitative research project within the field of regional and urban economics. The focus of my study was to explore the relationship between the prices of apartments and their distance from the city center. To accurately account for spatial dependencies, I utilized spatial autoregressive models, specifically the SAR and SAR-SAR models. This rigorous approach allowed me to address spatial autocorrelation effectively, enhancing the reliability of my findings.
 The completion of my degree, coupled with the specialized knowledge gained through my thesis, qualified me to work as an economist.           
 
-[My Master's thesis (in Finnish)](https://trepo.tuni.fi/handle/10024/135062)           
+[My Master's thesis (in Finnish).](https://trepo.tuni.fi/handle/10024/135062)           
 
 **Bachelor of Science in Economics, Turku School of Economics (_2017_)**                    
 The core studies of the degree program included everything from the foundations of marketing to the nuances of modern financial administration. I majored in business law and taxation, and in my bachelor’s thesis I researched the way an open public procurement procedure is conducted in a situation where the national public procurement law is overshadowed by the union level directive.                    
