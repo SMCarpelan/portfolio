@@ -24,11 +24,13 @@ The core studies of the degree program included everything from the foundations 
 
 ### 3 - Projects
 
-**Project A // KNN-model with Python (pending)**                    
+**Project A // KNN-model with Python (pending)**     
 
-**Project B // ARMA/ARIMA with R (pending)**                    
+**Project B // Predictive model with Python (pending)**
 
-**Project C // Dashboard with PowerBI (pending)**                         
+**Project C // ARMA/ARIMA with R (pending)**                    
+
+**Project D // Dashboard with PowerBI (pending)**                         
 
 ### 4 - Certifications
 
