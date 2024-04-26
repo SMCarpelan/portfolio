@@ -37,4 +37,4 @@ The core studies of the degree program included everything from the foundations 
 **Data Analyst Associate, DataCamp**                              
 **Azure Fundamentals, Microsoft**                       
 **Google Analytics, Google**            
-**Data Engineer, AW Academy**            
+**Data Engineer, AW Academy & Accenture**            
